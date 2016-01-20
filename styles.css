@@ -241,7 +241,8 @@ opacity:1;
     transition: all 0.7s ease;
 }
 .about{
-    background-color: #a6a6a6;
+    background-color: #777;
+    height: 400px;
 }
 .about h2{
     text-align: center;
