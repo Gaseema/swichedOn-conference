@@ -240,9 +240,19 @@ opacity:1;
     -webkit-transition: all 0.7s ease;
     transition: all 0.7s ease;
 }
+.about{
+    background-color: #a6a6a6;
+}
 .about h2{
     text-align: center;
     font-size: 4vw;
     padding-top: 6%;
     padding-bottom: 2%
+}
+.about p{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 1.4vw;
+    
 }
